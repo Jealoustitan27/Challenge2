@@ -1,0 +1,40 @@
+
+.color{
+    background-color: #BBBBBB; /*sirve para cambiar de color*/
+    margin: auto
+    
+}
+
+.color2{
+    background: black
+       
+ 
+}
+.titulos{
+
+    text-align: center;
+    margin:auto;
+    clear: left;
+    top: auto
+    
+
+}
+
+.intro{
+      font-size: 20px
+}
+
+
+.explicacion {
+  font-size: 20px
+
+}
+
+.prin {
+    
+ text-align: left;
+ background: white
+ 
+ 
+
+}
