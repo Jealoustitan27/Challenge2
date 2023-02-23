@@ -32,7 +32,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this temp
         <p><strong>Introducción</strong></p>
         <p>Este programa se desarrollo por medio de la interfaz grafica de NetBeans donde se utilizaron diferentes metodos como son el metodo Case. <br>
             Donde se utilizo un ComboBox para poder seleccionar el tipo de moneda que se requeria asi como los distintos tipos de temperatura y donde se puede <br>
-            colocar el dato y de manera inmediata se mandara un resultado sobre la opcion elegida anteriormente</p>
+            colocar el dato y de manera inmediata se mandara un resultado sobre la opcion elegida anteriormente, Descargar proyecto completo para su uso</p>
     </div>
     <div class="explicacion">
         <p><strong>Desarrollo</strong></p>
